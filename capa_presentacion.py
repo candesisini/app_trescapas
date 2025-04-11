@@ -1,5 +1,5 @@
 presentation_layer.py# presentation_layer.py - Capa de presentación
-from business_layer import ProductoService
+from negocio_layer import ProductoService
 
 def mostrar_menu():
     print("\n--- Sistema de Gestión de Productos (3 Capas) ---")
